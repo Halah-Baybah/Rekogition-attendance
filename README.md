@@ -1,2 +1,1 @@
-# Rekogition-attendance
-Recognition for attendance
+# Classroom attendance
